@@ -7,9 +7,9 @@ if fstype == "swap" || fstype == "loop" {
     continue
 }
 ```
-****Example Output:
+**Example Output:
 The script will produce output similar to this:
-****
+**
 
 ```bash
 CPU Information:
