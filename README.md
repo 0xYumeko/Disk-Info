@@ -33,5 +33,4 @@ Network Information:
    - MAC Address: 00:1A:2B:3C:4D:5E
 ```
 
-<h1>Kifach Tchouf l Script :</h1>
-1 . Save l'code dyal Go f' fichier smitoh ```main.go.```
+
