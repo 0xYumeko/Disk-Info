@@ -6,13 +6,12 @@ Skip Special Filesystems: Added a check to skip special file systems like swap a
 if fstype == "swap" || fstype == "loop" {
     continue
 }
-
-Example Output:
-The script will produce output similar to this:
-
 ```
+****Example Output:
+The script will produce output similar to this:
+****
 
-
+```bash
 CPU Information:
    - CPU Count: 4
    - CPU Frequency: 2.3 GHz
@@ -32,3 +31,4 @@ Network Information:
    - Network Interface: eth0
    - IP Address: 192.168.1.10
    - MAC Address: 00:1A:2B:3C:4D:5E
+```
