@@ -34,4 +34,4 @@ Network Information:
 ```
 
 <h1>Kifach Tchouf l Script :</h1>
-1 . Save l'code dyal Go f' fichier smitoh `main.go.`
+1 . Save l'code dyal Go f' fichier smitoh ```main.go.```
