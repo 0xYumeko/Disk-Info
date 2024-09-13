@@ -32,3 +32,8 @@ Network Information:
    - IP Address: 192.168.1.10
    - MAC Address: 00:1A:2B:3C:4D:5E
 ```
+
+Kifach Tchouf l'Script
+Save l'code dyal Go f' fichier smitoh main.go.
+Install les modules nécessaires b go get.
+Runn l'script b go run main.go.
